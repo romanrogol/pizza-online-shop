@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/pizza-online-shop/static/css/main.f25c2778.css",
+    "main.js": "/pizza-online-shop/static/js/main.fc42ca60.js",
+    "static/js/787.624be58a.chunk.js": "/pizza-online-shop/static/js/787.624be58a.chunk.js",
+    "static/media/empty-cart.png": "/pizza-online-shop/static/media/empty-cart.db905d1f4b063162f25b.png",
+    "static/media/pizza-logo.svg": "/pizza-online-shop/static/media/pizza-logo.56ac87032d8f6fdf863326acd06c0d97.svg",
+    "index.html": "/pizza-online-shop/index.html",
+    "static/media/search.svg": "/pizza-online-shop/static/media/search.1ca7eabfc5bcb8a189d313e1efcae881.svg",
+    "static/media/close.svg": "/pizza-online-shop/static/media/close.2001e956d267bc9b1a2349ee0a8ee521.svg",
+    "main.f25c2778.css.map": "/pizza-online-shop/static/css/main.f25c2778.css.map",
+    "main.fc42ca60.js.map": "/pizza-online-shop/static/js/main.fc42ca60.js.map",
+    "787.624be58a.chunk.js.map": "/pizza-online-shop/static/js/787.624be58a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f25c2778.css",
+    "static/js/main.fc42ca60.js"
+  ]
+}
